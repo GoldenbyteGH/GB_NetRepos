@@ -1,5 +1,5 @@
 | Acronym | Full Form                              |
-|---------|----------------------------------------|
+|:--------|:---------------------------------------|
 | SAN     | Storage Area Network                  |
 | SCSI    | Small Computer System Interface       |
 | NVMe    | Non-Volatile Memory Express           |
