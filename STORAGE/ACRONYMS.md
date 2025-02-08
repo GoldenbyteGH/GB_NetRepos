@@ -1,7 +1,5 @@
-<div style="text-align: left;">
-
 | Acronym | Full Form                              |
-|:--------|:---------------------------------------|
+|---------|----------------------------------------|
 | SAN     | Storage Area Network                  |
 | SCSI    | Small Computer System Interface       |
 | NVMe    | Non-Volatile Memory Express           |
@@ -19,5 +17,3 @@
 | VSAN    | Virtual Storage Area Network          |
 | NPV     | N-Port Virtualization                 |
 | NPIV    | N-Port Identifier Virtualization      |
-
-</div>
