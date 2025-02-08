@@ -13,3 +13,6 @@
 ||ELP|Exchange Link Parameters|
 ||CFS|Cisco Fabric Services|
 ||VSAN|Virtual Storage Area Network|
+||NPV|N-Port Virtualization|
+||NPIV|N-Port Identifier Virtualization|
+
