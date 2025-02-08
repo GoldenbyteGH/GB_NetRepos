@@ -1,3 +1,5 @@
+<div style="text-align: left;">
+
 | Acronym | Full Form                              |
 |:--------|:---------------------------------------|
 | SAN     | Storage Area Network                  |
@@ -17,3 +19,5 @@
 | VSAN    | Virtual Storage Area Network          |
 | NPV     | N-Port Virtualization                 |
 | NPIV    | N-Port Identifier Virtualization      |
+
+</div>
