@@ -1,8 +1,8 @@
 | Acronym | Full Form                              |
 |---------|----------------------------------------|
 | LUN     | Logical Unit Number                   |
-| NFS      | Network File System  (Unix)             |
-| CIFS     | Common Internet File System (SMB-Windows |
+| NFS      | Network File System  [Unix]             |
+| CIFS/SMB     | Common Internet File System(new)- Server Message Block(old) [Windows] |
 | SAN     | Storage Area Network                  |
 | SCSI    | Small Computer System Interface       |
 | NVMe    | Non-Volatile Memory Express           |
