@@ -27,6 +27,6 @@
 | ISCSI | 3260 | TCP |
 
 
-|PROTOCOL | e.g. ADDRESS | 
+| ADDRESSING | e.g. ADDRESS | 
 | ------| ------ |
 | IQN | iqn.1987-02.com.cisco:target-1 |
