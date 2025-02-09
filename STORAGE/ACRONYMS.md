@@ -18,6 +18,8 @@
 | NPV     | N-Port Virtualization                 |
 | NPIV    | N-Port Identifier Virtualization      |
 | iSCSI   | Internet Small Computer System Interface   |
+| EUI    | Extending Unique Identifier          |
+| NAA |  Network Addressing Authority          |
 | IQN    | ISCSI Qualified Name                  |
 | FCIP    | Fiber Channel Over IP                 |
 | IVR     | Internet Vsan Routing                 |
@@ -30,3 +32,5 @@
 | ADDRESSING | FROMAT | e.g. ADDRESS | 
 | ------| ------ | ------ |
 | IQN | iqn.YYYY-MM.FQDN(inverted):(local_significant_name) | iqn.1987-02.com.cisco:target-1 |
+| EUI  | eui.(addressing_number)  |  eui.02004567a425678d |
+| NAA  | naa.(addressing_number) | naa.52004567ba64678d  |
