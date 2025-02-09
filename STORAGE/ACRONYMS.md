@@ -18,9 +18,15 @@
 | NPV     | N-Port Virtualization                 |
 | NPIV    | N-Port Identifier Virtualization      |
 | iSCSI   | Internet Small Computer System Interface   |
+| IQN    | ISCSI Qualified Name                  |
 | FCIP    | Fiber Channel Over IP                 |
 | IVR     | Internet Vsan Routing                 |
 
 | PROTOCOL | PORT # | TYPE |
 | ------| ------ | --------|
 | ISCSI | 3260 | TCP |
+
+
+|PROTOCOL | e.g. ADDRESS | 
+| ------| ------ |
+| IQN | iqn.1987-02.com.cisco:target-1 |
