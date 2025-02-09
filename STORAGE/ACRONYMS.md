@@ -27,6 +27,6 @@
 | ISCSI | 3260 | TCP |
 
 
-| ADDRESSING | e.g. ADDRESS | 
-| ------| ------ |
-| IQN | iqn.1987-02.com.cisco:target-1 |
+| ADDRESSING | FROMAT | e.g. ADDRESS | 
+| ------| ------ | ------ |
+| IQN | iqn.YYYY-MM.FQDN(inverted):(local_significant_name) | iqn.1987-02.com.cisco:target-1 |
