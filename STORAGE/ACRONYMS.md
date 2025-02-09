@@ -35,3 +35,7 @@
 | IQN | iqn.YYYY-MM.FQDN(inverted):(local_significant_name) | iqn.1987-02.com.cisco:target-1 |
 | EUI  | eui.(addressing_number)  |  eui.02004567a425678d |
 | NAA  | naa.(addressing_number) | naa.52004567ba64678d  |
+
+| * | SIZE |
+| ------| ------ |
+| MTU Jumbo | 9000 |
