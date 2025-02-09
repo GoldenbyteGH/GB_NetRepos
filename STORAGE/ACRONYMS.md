@@ -36,6 +36,6 @@
 | EUI  | eui.(addressing_number)  |  eui.02004567a425678d |
 | NAA  | naa.(addressing_number) | naa.52004567ba64678d  |
 
-| * | SIZE |
+| * | SIZE(bytes) |
 | ------| ------ |
 | MTU Jumbo | 9000 |
