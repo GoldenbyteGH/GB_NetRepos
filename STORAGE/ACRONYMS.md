@@ -27,6 +27,7 @@
 | PROTOCOL | PORT # | TYPE |
 | ------| ------ | --------|
 | ISCSI | 3260 | TCP |
+| FCIP | 3225 | TCP |
 
 
 | ADDRESSING | FROMAT | e.g. ADDRESS | 
