@@ -17,3 +17,10 @@
 | VSAN    | Virtual Storage Area Network          |
 | NPV     | N-Port Virtualization                 |
 | NPIV    | N-Port Identifier Virtualization      |
+| iSCSI   | Internet Small Computer System Interface   |
+| FCIP    | Fiber Channel Over IP                 |
+| IVR     | Internet Vsan Routing                 |
+
+| PROTOCOL | PORT # | TYPE |
+| ------| ------ | --------|
+| ISCSI | 3260 | TCP |
