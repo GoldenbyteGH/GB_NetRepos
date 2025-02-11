@@ -26,6 +26,14 @@
 | IQN    | ISCSI Qualified Name                  |
 | FCIP    | Fiber Channel Over IP                 |
 | IVR     | Internet Vsan Routing                 |
+| FCoE    | Fiber Channel over Ethernet          |
+| OPEX     | Operating Expenses or eXpenditure    |
+| CAPEX     | Capital eXpenditure                |
+| PFC    | Priority Flow Control                |
+| ETS    | Enhanced Trasmission Selection      |
+| DCBX  | Data Center Bridging eXchange        |
+| FIP  |  FCoE Initialization Protocol         |
+| FCF   |  Fiber Channel Forwarder            |
 
 | PROTOCOL | PORT # | TYPE |
 | ------| ------ | --------|
@@ -42,3 +50,4 @@
 | * | SIZE(bytes) |
 | ------| ------ |
 | MTU Jumbo | 9000 |
+| MTU FCoE  | >=2180 |
