@@ -7,6 +7,7 @@ feature pim
 feature vn-segment-vlan-based
 feature nv overlay
 
+!Multicast needed for BUM traffic
 ip pim rp-address 1.1.1.1 group-list 224.0.0.0/4
 ip pim ssm range 232.0.0.0/8
 
